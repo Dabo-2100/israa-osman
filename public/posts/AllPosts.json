@@ -1,0 +1,16 @@
+{
+  "Posts": [
+    {
+      "PostType": "Text",
+      "PostId": "PostIO1",
+      "PostDate": "2022-12-24",
+      "PostCaption": "<p>مرحباً بك في الموقع الرسمي للدكتورة اسراء عثمان يمكنك مرسالة الدكتورة بشكل مباشر وحجز استشاراتك الخاصة من خلال الموقع </p>"
+    },
+    {
+      "PostType": "Photo",
+      "PostId": "PostIO2",
+      "PostDate": "2022-12-23",
+      "PostCaption": "<h1 style=\"font-family :'Lemonada'; font-size:1rem;\">عام جديد عليكم خالي من المشاكل وبلا حدود</h1>"
+    }
+  ]
+}
